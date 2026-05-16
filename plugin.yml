@@ -1,0 +1,9 @@
+name: ProtocolChecker
+main: ProtocolChecker\Main
+version: 1.0.0
+api: ["VeoZaxAPI"]
+author: VeoZax
+load: POSTWORLD
+link: https://github.com/VeoZaxOfficial
+discord: https://discord.gg/dCzgPYam2J
+description: "A plugin that checks the versions of players who trying to connect into the PocketMine-MP servers"
