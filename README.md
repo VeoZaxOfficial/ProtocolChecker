@@ -11,7 +11,8 @@ ProtocolChecker is a plugin for VeoZaxAPI that checks player protocol versions a
 - Lightweight and simple
 
 ## 📦 Installation
-1. Download this plugin from here: [![Download](https://img.shields.io/badge/Download-ProtocolChecker-blue?style=for-the-badge&logo=github)](https://www.mediafire.com/file/3mdj7gzpyl7rw74/ProtocolChecker_v1.0.0.phar/file)
+1. Download this plugin from here:
+[![Download](https://img.shields.io/badge/Download-ProtocolChecker-blue?style=for-the-badge&logo=github)](https://www.mediafire.com/file/3mdj7gzpyl7rw74/ProtocolChecker_v1.0.0.phar/file)
 2. Place the plugin in your /plugins folder
 3. Restart your server
 
